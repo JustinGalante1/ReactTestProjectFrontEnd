@@ -9,7 +9,7 @@ class home extends Component {
     constructor(props) {
         super(props)
         this.state = {
-             screams: null
+            screams: null
         }
     }
 
